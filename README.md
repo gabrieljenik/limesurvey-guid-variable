@@ -6,8 +6,11 @@ The question will be prefilled with a good random string which can be used as a 
 
 ## Usage
 An example usage is as follows:
+
 1- On the plugin settings, at survey level, set which is going to be the name of the replacement variable.
    Ex: _guid
+   
 2- Create a short text question.
    Hide it if you need to by adding the "hide" class to the question.
+   
 3- Make its default answer to be [_guid]
