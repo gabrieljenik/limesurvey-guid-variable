@@ -2,6 +2,22 @@
 /**
  * Add a GUID variable to expression manager to be used on question text, help and answers.
  * Expected to be used as prefiller for an equation question.
+ *
+ * @author Gabriel Jenik <gabriel@encuesta.biz>
+ * @copyright 2019-2020 Gabriel Jenik <https://encuesta.biz>
+ * @license GPL v3
+ * @version 1.0
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
  */
 class GuidVariable extends PluginBase {
     protected $storage = 'DbStorage';
