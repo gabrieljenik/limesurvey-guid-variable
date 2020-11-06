@@ -139,7 +139,7 @@ class GuidVariable extends PluginBase {
         $event=$this->getEvent();
         $surveyId = $event->get("surveyId");
         $qid = $event->get("qid");
-        $prefix = $_SESSION['session_hash'] . $surveyId . $qid . rand();
+        $prefix = $surveyId . $qid . rand();
 
         self::$_guid = substr(hash('sha256',uniqid($prefix, true)), 0, self::GUID_LENGTH);
 
