@@ -6,7 +6,7 @@
  * @author Gabriel Jenik <gabriel@encuesta.biz>
  * @copyright 2019-2020 Gabriel Jenik <https://encuesta.biz>
  * @license GPL v3
- * @version 1.0
+ * @version 1.0.1
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
