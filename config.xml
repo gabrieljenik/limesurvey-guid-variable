@@ -8,7 +8,7 @@
         <author>Gabriel Jenik</author>
         <authorUrl>http://encuesta.biz</authorUrl>
         <supportUrl>http://encuesta.biz</supportUrl>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
         <lastSecurityUpdate>1.0.0</lastSecurityUpdate>
         <license>Propietary</license>
         <description><![CDATA[Add a GUID variable to expression manager to be used on question text, help and answers.]]></description>
@@ -17,6 +17,7 @@
     <compatibility>
         <version>3.0</version>
         <version>5.0</version>
+        <version>6.0</version>
     </compatibility>
 
     <updaters>
